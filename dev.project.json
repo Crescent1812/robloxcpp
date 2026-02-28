@@ -1,0 +1,11 @@
+{
+  "name": "robloxcpp",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+        "RobloxCPP": {
+           "$path": "src"
+        }
+    }
+  }
+}
